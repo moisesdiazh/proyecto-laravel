@@ -52,14 +52,20 @@ We would like to extend our thanks to the following sponsors for helping fund on
 - [Earthlink](https://www.earthlink.ro/)
 - [Steadfast Collective](https://steadfastcollective.com/)
 
-## Contributing
+## Para guiarse con el proyecto
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Rutas: Se encuentran en el web.php de la carpeta de routes
 
-## Security Vulnerabilities
+CSS: Se encuentra en el public en la carpeta de css
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Parte de JS: Se encuentra en public en la carpeta de js
 
-## License
+Views: Se encuentran en resources en la carpeta de views
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Parte de Sass: Se encuentran en resources en la carpeta de sass
+
+Modelos: Se encuentran en la carpeta de app(Comment, Image, Like, User)
+
+Controllers: Se encuentran en la carpeta de app, exactamente en la carpeta de Controllers
+
+
